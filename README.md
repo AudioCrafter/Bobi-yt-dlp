@@ -8,7 +8,7 @@ This is a simple commandline tool do download videos using [yt-dlp](https://gith
 
 1.  Download the latest release from the Releases section on the right or from [here](https://github.com/AudioCrafter/Bobi-yt-dlp/releases)
 2.  unzip to some location you can remember
-3.  open `Bobi-yt-dlp.exe` or `bobi-yt-dlp.py`, depending on which version you downloaded
+3.  open `bobi-yt-dlp.exe` or `bobi-yt-dlp.py`, depending on which version you downloaded
 4.  paste a link to a video, playlist or even a whole channel
 5.  select your desired format
 6.  after the download finishes, a new subfolder called `downloads` is created where your downloaded file(s) are located
