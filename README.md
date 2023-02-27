@@ -19,7 +19,7 @@ This is a simple commandline tool do download videos using [yt-dlp](https://gith
 
 
 
-### As I alredy said, this project uses yt-dlp and ffmpeg. I do not have any rights on those programs, and you can download them from the official sites:
+### this project uses yt-dlp and ffmpeg. I do not have any rights on those programs, and you can download them from the official sites:
 
 yt-dlp: [Here](https://github.com/yt-dlp/yt-dlp) 
 
