@@ -11,7 +11,7 @@ This is a simple commandline tool do download videos using [yt-dlp](https://gith
 3.  open `Bobi-yt-dlp.exe` or `bobi-yt-dlp.py`, depending on which version you downloaded
 4.  paste a link to a video, playlist or even a whole channel
 5.  select your desired format
-6.  after the download finishes, a new subfolder called `downloads` is created where your downloaded file(s) is located
+6.  after the download finishes, a new subfolder called `downloads` is created where your downloaded file(s) are located
 7.  Now you can paste another link or quit by pressing "q"
 
 
